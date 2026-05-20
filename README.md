@@ -1,6 +1,3 @@
-# qa-testing-project
-Projeto de automação de testes end-to-end com Cypress, focado na validação de fluxos de interface web.
-
 # 🧪 Central de Atendimento ao Cliente TAT - Testes Automatizados com Cypress
 
 ## 📌 Descrição
