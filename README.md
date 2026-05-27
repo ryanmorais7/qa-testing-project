@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌲 Cypress, do Zero à Nuvem ☁️
 
 👋 Seja bem-vindo(a)!
@@ -26,3 +27,12 @@ Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 ___
 
 Este é um curso da **Escola Talking About Testing**.
+=======
+# 🧪 Central de Atendimento ao Cliente TAT - Testes Automatizados com Cypress
+
+## 📌 Descrição
+Projeto de automação de testes end-to-end utilizando Cypress, baseado em uma aplicação de formulário web (Central de Atendimento ao Cliente TAT).  
+
+O objetivo é validar comportamentos da interface, regras de negócio e fluxos de envio de formulário.
+
+---
